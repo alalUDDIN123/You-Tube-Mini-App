@@ -1,4 +1,4 @@
- ## Hey ! Welcome to you tube mini app project
+ ## Hey ! Welcome to (`You Tube`) mini app project
   - This mini app project created by me within 2 days with the help of 
       - HTML
       - JavaScript and 
@@ -34,6 +34,10 @@
 
 
   ## If You have Any Query Fell Free To Reach :- 
+   
+  ### Email : alalu75666@gmail.com
+  ### LinkedIn : https://www.linkedin.com/in/alal-uddin-066444206/
 
+  ## THANK YOU 🤗 🤗 🤗 🤗 🤗 
   
  
