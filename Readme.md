@@ -8,7 +8,7 @@
  ## Deployed Link :- https://celebrated-eclair-025aac.netlify.app/
 
  ## Features of the app :- 
- - Default video
+ - Default videos
  - Search
  - Watch Video
  - Filter    
@@ -38,6 +38,6 @@
   ### Email : alalu75666@gmail.com
   ### LinkedIn : https://www.linkedin.com/in/alal-uddin-066444206/
 
-  ## THANK YOU 🤗 🤗 🤗 🤗 🤗 
+  ## THANK YOU..... 🤗 🤗 🤗 🤗 🤗 
   
  
