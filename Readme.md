@@ -33,7 +33,7 @@
   ![](Watch%20Video.PNG)
 
 
-  ## If You have Any Query Fell Free To Reach :- 
+  ## If You have Any Query Fell Free To Reach , I Will Definitely Respond You :- 
    
   ### Email : alalu75666@gmail.com
   ### LinkedIn : https://www.linkedin.com/in/alal-uddin-066444206/
